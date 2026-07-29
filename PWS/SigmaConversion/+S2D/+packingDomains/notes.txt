@@ -1,0 +1,4 @@
+I (Nick Anthony) got these scripts from Anne Shim though they appear to have been written by
+Adam Eshein. I am guessing that they were used for an aspect of Anne's paper. They have not been
+tested and the underlying code has been refactored in the mean-time so it may take some work 
+to make these usable.
